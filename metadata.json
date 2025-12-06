@@ -1,0 +1,7 @@
+{
+  "name": "U盘回家助手 (USB Return Helper)",
+  "description": "A smart communication bridge between a lost USB drive finder and its owner using Gemini AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
